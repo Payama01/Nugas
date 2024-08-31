@@ -5,7 +5,7 @@ int main(){
 	
 	int kode_akses_baru, kode_akses, a;
 	
-	cout << "Selamat Datang di Akses Informasi Perusahaan Erki" << endl;
+	cout << "Selamat Datang di Akses Informasi Perusahaan Payama" << endl;
 	cout << "=================================================" << endl;
 	
 	cout << "Kode akses baru : ";
@@ -17,7 +17,7 @@ int main(){
 	cin >> kode_akses;
 	
 	if (kode_akses_baru == kode_akses){
-		cout << "Selamat Datang di Database Perusahaan Erki\n";
+		cout << "Selamat Datang di Database Perusahaan Payama\n";
 		cout << "==========================================\n";
 		cout << "Surat rahasia\n";
 		cout << "Terdata bahwa Perusahaan ini memiliki +10000 aura dan ketuanya sering mewing pas tidur\n";
